@@ -132,7 +132,8 @@ api.karpishe.com
 kajads.com
 ads.karzar.net
 kaprila.com
-
+beta.kaprila.com
+panel.kaprila.com
 # >> L <<
 analytics.labbayk.ir
 linkfars.com
